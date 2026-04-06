@@ -30,6 +30,6 @@ Lauro Scher - Análise Forense de Rede, Triagem de Incidentes e Documentação T
 
 Para visualizar as evidências completas, a extração dos payloads de Comando e Controle e as recomendações de segurança detalhadas:
 
-👉 **[Clique aqui para ler o relatório completo em PDF]([https://drive.google.com/file/d/1XeWMdU4x2T7onbCwS1KLpEmmbcccO29N/view?usp=sharing](https://drive.google.com/file/d/1cQDwcAHgjHo0B_qs-HQ0-eqt4iHZK5GY/view?usp=sharing))**
+👉 **[Clique aqui para ler o relatório completo em PDF](https://drive.google.com/file/d/1cQDwcAHgjHo0B_qs-HQ0-eqt4iHZK5GY/view?usp=sharing)**
 
 Nota: O PDF está hospedado nativamente neste repositório para garantir uma visualização segura, protegendo a integridade dos artefatos de código analisados em laboratório isolado.
